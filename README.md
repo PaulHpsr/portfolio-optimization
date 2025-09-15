@@ -67,9 +67,9 @@ pip install -r requirements.txt
 
 ## Résultats
 Le pipeline fournit une évaluation détaillée de chaque stratégie :
-    - Rendement cumulatif et drawdown
-    - Volatilité annualisée et ratio de Sharpe
-    - Comparaison avec le benchmark S&P 500
+  - Rendement cumulatif et drawdown
+  - Volatilité annualisée et ratio de Sharpe
+  - Comparaison avec le benchmark S&P 500
 
 ## Auteur
 **Paul HOPSORE**  
