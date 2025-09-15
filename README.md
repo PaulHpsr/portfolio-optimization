@@ -50,8 +50,8 @@ Ce projet propose un pipeline modulaire et reproductible pour concevoir, simuler
 ## Installation
 Cloner le repo :  
 ```bash
-git clone [https://github.com/PaulHpsr/portfolio-optimization](https://github.com/PaulHpsr/portfolio-optimization)
-cd portfolio-project
+git clone https://github.com/PaulHpsr/portfolio-optimization
+cd portfolio-optimization
 ```
 
 Installer les dépendances :  
